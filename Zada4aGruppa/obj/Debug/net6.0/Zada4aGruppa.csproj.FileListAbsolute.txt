@@ -1,0 +1,15 @@
+C:\GB\Курс - знакомство с С#\Практика\С#-practic\Zada4aGruppa\obj\Debug\net6.0\Zada4aGruppa.csproj.AssemblyReference.cache
+C:\GB\Курс - знакомство с С#\Практика\С#-practic\Zada4aGruppa\obj\Debug\net6.0\Zada4aGruppa.GeneratedMSBuildEditorConfig.editorconfig
+C:\GB\Курс - знакомство с С#\Практика\С#-practic\Zada4aGruppa\obj\Debug\net6.0\Zada4aGruppa.AssemblyInfoInputs.cache
+C:\GB\Курс - знакомство с С#\Практика\С#-practic\Zada4aGruppa\obj\Debug\net6.0\Zada4aGruppa.AssemblyInfo.cs
+C:\GB\Курс - знакомство с С#\Практика\С#-practic\Zada4aGruppa\obj\Debug\net6.0\Zada4aGruppa.csproj.CoreCompileInputs.cache
+C:\GB\Курс - знакомство с С#\Практика\С#-practic\Zada4aGruppa\bin\Debug\net6.0\Zada4aGruppa.exe
+C:\GB\Курс - знакомство с С#\Практика\С#-practic\Zada4aGruppa\bin\Debug\net6.0\Zada4aGruppa.deps.json
+C:\GB\Курс - знакомство с С#\Практика\С#-practic\Zada4aGruppa\bin\Debug\net6.0\Zada4aGruppa.runtimeconfig.json
+C:\GB\Курс - знакомство с С#\Практика\С#-practic\Zada4aGruppa\bin\Debug\net6.0\Zada4aGruppa.dll
+C:\GB\Курс - знакомство с С#\Практика\С#-practic\Zada4aGruppa\bin\Debug\net6.0\Zada4aGruppa.pdb
+C:\GB\Курс - знакомство с С#\Практика\С#-practic\Zada4aGruppa\obj\Debug\net6.0\Zada4aGruppa.dll
+C:\GB\Курс - знакомство с С#\Практика\С#-practic\Zada4aGruppa\obj\Debug\net6.0\refint\Zada4aGruppa.dll
+C:\GB\Курс - знакомство с С#\Практика\С#-practic\Zada4aGruppa\obj\Debug\net6.0\Zada4aGruppa.pdb
+C:\GB\Курс - знакомство с С#\Практика\С#-practic\Zada4aGruppa\obj\Debug\net6.0\Zada4aGruppa.genruntimeconfig.cache
+C:\GB\Курс - знакомство с С#\Практика\С#-practic\Zada4aGruppa\obj\Debug\net6.0\ref\Zada4aGruppa.dll
