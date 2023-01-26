@@ -2,11 +2,6 @@
 //	3 -> Среда 
 // 5 -> Пятница
 
-
-
-
-
-
 Console.Write("Введите день недели: ");
 
 int day_of_week = Convert.ToInt32(Console.ReadLine());
